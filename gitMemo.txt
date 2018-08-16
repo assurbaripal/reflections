@@ -1,0 +1,20 @@
+git log
+git log --stat
+q				'quit from git log output
+vim -d old.txt new.txt
+diff git [id1] [id2]
+git clone [url]
+git config --global color.ui auto	'colors from tutorial
+git log --graph				'shoe graph with branches
+git log -2				'show n amount of last commits
+
+Git
+-Repository
+--clone
+--Commit
+
+octopus
+HEAD - the commit you are currently on
+
+git init
+
